@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String name = "오일진";
+        String name = "홍길동";
         int age = 24;
         System.out.println(name + "님은 " + age + "살 입니다.");
     }
